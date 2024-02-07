@@ -55,11 +55,10 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 
 // ============= typed js =============
-
 const typed = new Typed('.multiple-text',{
-    strings:['FullStack Developer','Flutter Developer','YouTuber','Trainer'],
+    strings:['FullStack Developer','BackEnd Developer','YouTuber','Trainer'],
     typeSpeed:100,
     backSpeed:100,
     delaySpeed:1000,
     loop:true
-})
+});

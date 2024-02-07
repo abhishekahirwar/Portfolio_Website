@@ -239,6 +239,7 @@ span {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    line-height: 22px;
     justify-content: center;
     align-items: center;
 }
